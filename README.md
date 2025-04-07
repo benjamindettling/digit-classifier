@@ -30,7 +30,7 @@ Draw a digit in your browser and get a real-time prediction using a PyTorch neur
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="./screenshot.png" width="400" alt="Digit classifier UI"/>
+  <img src="./digit.jpg" width="400" alt="Digit classifier UI"/>
 </p>
 
 ## 🧠 What I Learned
